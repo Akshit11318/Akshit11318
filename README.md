@@ -18,13 +18,13 @@
 
 ### <code>> akshit --about</code>
 
-- 🎓 &nbsp; I'm an **undergrad** exploring **ML, HPC &amp; Systems**
-- 🧠 &nbsp; Building with **PyTorch** — one layer at a time
-- ⚡ &nbsp; Diving into **CUDA / SYCL** &amp; high-performance computing
-- 🐧 &nbsp; Linux power user — scripting, containers &amp; automation
-- 🤗 &nbsp; Learning to fine-tune **LLMs** with Hugging Face
-- 🌐 &nbsp; Full-stack curious: backend APIs &amp; DevOps
-- 🔭 &nbsp; Every bug is a lesson in disguise
+- &nbsp; I'm an **undergrad** exploring **ML, HPC &amp; Systems**
+- &nbsp; Building with **PyTorch** — one layer at a time
+- &nbsp; Diving into **CUDA / SYCL** &amp; high-performance computing
+- &nbsp; Linux power user — scripting, containers &amp; automation
+- &nbsp; Learning to fine-tune **LLMs** with Hugging Face
+- &nbsp; Full-stack curious: backend APIs &amp; DevOps
+- &nbsp; Every bug is a lesson in disguise
 
 <br clear="both"/>
 
@@ -53,7 +53,11 @@
 
 <div align="center">
 
-## 📊 <code>profile --stats</code>
+## &nbsp; Stats
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Akshit11318&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit11318&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="175"/> -->
 
 <br/>
 
@@ -81,7 +85,7 @@
 
 <div align="center">
 
-## 📈 <code>git --log</code>
+## <code>git --log</code>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshit11318&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph&radius=8&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff" width="100%"/>
 
@@ -97,12 +101,12 @@
 
 | &nbsp; | Topic | Status |
 |--------|-------|--------|
-| 🔥 | Deep Learning with PyTorch | `In Progress` |
-| ⚡ | HPC — CUDA / SYCL | `Exploring` |
-| 🐧 | Linux Internals &amp; Shell Scripting | `In Progress` |
-| 📦 | Docker &amp; Container Orchestration | `Learning` |
-| 🤗 | LLM Fine-tuning &amp; Hugging Face | `Starting` |
-| 📊 | Kaggle Competitions | `Gearing Up` |
+|  | Deep Learning with PyTorch | `In Progress` |
+|  | HPC — CUDA / SYCL | `Exploring` |
+|  | Linux Internals &amp; Shell Scripting | `In Progress` |
+|  | Docker &amp; Container Orchestration | `Learning` |
+|  | LLM Fine-tuning &amp; Hugging Face | `Starting` |
+|  | Kaggle Competitions | `Gearing Up` |
 
 ---
 
