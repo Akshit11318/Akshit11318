@@ -1,71 +1,26 @@
 <div align="center">
 
-<!-- Animated banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshit&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Software%20%26%20ML%20Engineer%20in%20the%20Making%20🚀&descAlignY=60&descSize=18" width="100%"/>
+<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20there%2C%20I'm%20Akshit!%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20%26%20ML%20Engineer%20in%20the%20Making%20%F0%9F%9A%80&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://github.com/Akshit11318">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Akshit+👋;Software+%26+ML+Engineer+(Beginner)+🤖;Python+%7C+C%2B%2B+%7C+Linux+%7C+CUDA+Enthusiast+🐧;Always+learning%2C+always+building+🛠️;Let's+build+something+awesome+together!+🚀" alt="Typing SVG" />
-</a>
+<!-- ═══════════════════ ANIMATED GIF INTRO ROW ═══════════════════ -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" align="right"/>
 
-</div>
+### �️ &nbsp; A Little About Me
 
----
+🌱 &nbsp; Beginner **Software & ML Engineer** on a mission  
+🤖 &nbsp; Exploring **Deep Learning**, **HPC** & **Linux Systems**  
+🧠 &nbsp; Currently learning **PyTorch** & **LLM fine-tuning**  
+🐧 &nbsp; Passionate about **open-source** & **DevOps automation**  
+☕ &nbsp; I debug with coffee & determination  
+💬 &nbsp; Ask me about **Python**, **C++**, **Bash** or **CUDA**  
+📫 &nbsp; Reach me at **akshit11318@gmail.com**  
+⚡ &nbsp; Fun fact: I think in loops and dream in gradients 🌊
 
-## 🧑‍💻 About Me
+<br clear="both"/>
 
-```python
-class Akshit:
-    def __init__(self):
-        self.name        = "Akshit"
-        self.username    = "Akshit11318"
-        self.domain      = ["Software Engineering", "Machine Learning"]
-        self.level       = "Beginner → Growing 🌱"
-        self.languages   = ["Python 🐍", "C++ ⚙️", "Bash 🖥️"]
-        self.interests   = ["ML Models", "HPC", "Linux", "DevOps"]
-        self.currently   = "Learning PyTorch & building cool side projects"
-        self.fun_fact    = "I debug code with coffee ☕ and determination 💪"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something great 🚀")
-
-me = Akshit()
-me.say_hi()
-```
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### 🤖 ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-
-### 🐧 DevOps & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🗃️ Tools & Editors
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+<!-- ═══════════════════ WAVY DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
@@ -73,15 +28,38 @@ me.say_hi()
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 🛠️ &nbsp; Tech Stack &amp; Tools
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshit11318&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit11318&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<!-- ════ LANGUAGES ════ -->
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,bash,c&theme=dark&perline=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Akshit11318&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<!-- ════ ML / AI ════ -->
+**Machine Learning & AI**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=8" />
+
+<br/>
+
+<!-- ════ DEVOPS & SYSTEMS ════ -->
+**DevOps & Systems**
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,cmake,vim&theme=dark&perline=8" />
+
+<br/>
+
+<!-- ════ TOOLS & EDITORS ════ -->
+**Tools & Editors**
+
+<img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda,pytorch&theme=dark&perline=8" />
+
+<br/>
+
+<!-- ════ ANIMATED DIVIDER ════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
@@ -89,67 +67,93 @@ me.say_hi()
 
 <div align="center">
 
-## 📈 Contribution Graph
+## 📊 &nbsp; GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshit11318&theme=tokyo-night&hide_border=true&area=true&custom_title=Akshit's%20Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akshit11318&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit11318&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Akshit11318&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- ════ TROPHY ════ -->
+<img src="https://github-profile-trophy.vercel.app/?username=Akshit11318&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%"/>
+
+<br/>
+
+<!-- ════ ANIMATED DIVIDER ════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
 ---
 
-## 🌱 What I'm Currently Learning
+<div align="center">
 
-| Topic | Status |
-|-------|--------|
-| 🔥 Deep Learning with PyTorch | In Progress |
-| 🐧 Advanced Linux & Shell Scripting | In Progress |
-| 📦 Docker & Container Orchestration | Learning |
-| ⚡ High Performance Computing (HPC) | Exploring |
-| 🤗 LLM Fine-tuning & Hugging Face | Starting |
+## 📈 &nbsp; Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshit11318&theme=tokyo-night&hide_border=true&area=true&custom_title=Akshit%27s%20Contribution%20Graph&radius=8" width="100%"/>
+
+<br/>
+
+<!-- ════ CODINGSNAKE ════ -->
+**Contribution Snake 🐍**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshit11318/Akshit11318/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshit11318/Akshit11318/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akshit11318/Akshit11318/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+<br/>
+
+<!-- ════ ANIMATED DIVIDER ════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
 
 ---
 
-## 🚀 Goals for 2025–2026
+## 🌱 &nbsp; What I'm Currently Learning
 
-- [ ] 🧠 Build and deploy my first ML model end-to-end
-- [ ] 🐳 Containerize projects with Docker & GitHub Actions CI/CD
-- [ ] 📝 Write technical blog posts on Medium / Dev.to
-- [ ] 🏆 Contribute to open-source ML/AI projects
-- [ ] 📊 Complete a Kaggle competition
-- [ ] 🌐 Build a personal portfolio website
+| &nbsp; | Topic | Status |
+|--------|-------|--------|
+| 🔥 | Deep Learning with PyTorch | `In Progress` |
+| 🐧 | Advanced Linux & Shell Scripting | `In Progress` |
+| 📦 | Docker & Container Orchestration | `Learning` |
+| ⚡ | High Performance Computing (HPC / SYCL / CUDA) | `Exploring` |
+| 🤗 | LLM Fine-tuning & Hugging Face Transformers | `Starting` |
+| 📊 | Kaggle Competitions | `Gearing Up` |
 
 ---
 
 <div align="center">
 
-## 🤝 Connect With Me
+## 🤝 &nbsp; Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshit11318)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshit11318@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-vakati-venkata-4730032a4/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvakshit11318@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshit11318)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/akshit11318)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/Akshit11318)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/Akshit11318)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-### 👀 Profile Visitors
+### 👀 &nbsp; Profile Views
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Akshit11318&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS)
 
-### ✨ Random Dev Quote
+<br/>
+
+### ✨ &nbsp; Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<!-- ════ FOOTER WAVE ════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 *"First, solve the problem. Then, write the code."* — John Johnson 💡
 
