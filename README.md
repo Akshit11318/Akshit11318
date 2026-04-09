@@ -70,8 +70,8 @@
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshit11318&theme=github_dark" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshit11318&theme=github_dark" height="160"/>
+<!-- &nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshit11318&theme=github_dark" height="160"/> -->
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshit11318&theme=github_dark&utcOffset=5.5" height="160"/>
 
