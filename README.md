@@ -6,16 +6,16 @@
 <!-- ═══════════════════ ANIMATED GIF INTRO ROW ═══════════════════ -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" align="right"/>
 
-### �️ &nbsp; A Little About Me
+### 🧑‍💻 &nbsp; Who Am I?
 
-🌱 &nbsp; Beginner **Software & ML Engineer** on a mission  
-🤖 &nbsp; Exploring **Deep Learning**, **HPC** & **Linux Systems**  
-🧠 &nbsp; Currently learning **PyTorch** & **LLM fine-tuning**  
-🐧 &nbsp; Passionate about **open-source** & **DevOps automation**  
-☕ &nbsp; I debug with coffee & determination  
-💬 &nbsp; Ask me about **Python**, **C++**, **Bash** or **CUDA**  
-📫 &nbsp; Reach me at **akshit11318@gmail.com**  
-⚡ &nbsp; Fun fact: I think in loops and dream in gradients 🌊
+🚀 &nbsp; A self-driven **Software & ML Engineer** who loves breaking things to understand them  
+🤖 &nbsp; Diving deep into **Neural Networks**, **CUDA/HPC**, and **Linux internals**  
+🧠 &nbsp; Building with **PyTorch** — from tensors to transformers, one layer at a time  
+🌐 &nbsp; Full-stack curious: **web dev → backend APIs → DevOps automation**  
+🛠️ &nbsp; Believer in learning by shipping — every bug is a lesson in disguise  
+💬 &nbsp; Talk to me about **Python**, **C++**, **Linux**, **ML models**, or just **tech in general**  
+📫 &nbsp; Drop a mail: **vvakshit11318@gmail.com**  
+⚡ &nbsp; Fun fact: My code compiles on the first try… sometimes 🤞
 
 <br clear="both"/>
 
@@ -33,28 +33,43 @@
 <!-- ════ LANGUAGES ════ -->
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,bash,c&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,bash,php,ts,js&theme=dark&perline=8" />
+
+<br/>
+
+<!-- ════ WEB & BACKEND ════ -->
+**Web & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,postman&theme=dark&perline=8" />
 
 <br/>
 
 <!-- ════ ML / AI ════ -->
 **Machine Learning & AI**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark&perline=8" />
 
 <br/>
 
 <!-- ════ DEVOPS & SYSTEMS ════ -->
 **DevOps & Systems**
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,cmake,vim&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,githubactions,cmake,vim&theme=dark&perline=8" />
 
 <br/>
 
 <!-- ════ TOOLS & EDITORS ════ -->
 **Tools & Editors**
 
-<img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda,pytorch&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda,cmake&theme=dark&perline=8" />
+
+<br/>
+
+<!-- ════ AI TOOLS ════ -->
+**AI Coding Tools**
+
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
 <br/>
 
@@ -79,6 +94,19 @@
 
 <br/><br/>
 
+<!-- ════ PROFILE SUMMARY CARD ════ -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshit11318&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshit11318&theme=tokyonight" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshit11318&theme=tokyonight" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshit11318&theme=tokyonight&utcOffset=5.5" height="160"/>
+
+<br/><br/>
+
 <!-- ════ TROPHY ════ -->
 <img src="https://github-profile-trophy.vercel.app/?username=Akshit11318&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%"/>
 
@@ -97,16 +125,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshit11318&theme=tokyo-night&hide_border=true&area=true&custom_title=Akshit%27s%20Contribution%20Graph&radius=8" width="100%"/>
 
-<br/>
 
-<!-- ════ CODINGSNAKE ════ -->
-**Contribution Snake 🐍**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshit11318/Akshit11318/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshit11318/Akshit11318/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akshit11318/Akshit11318/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
 
 <br/>
 
