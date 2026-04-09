@@ -1,26 +1,50 @@
 <div align="center">
 
-<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
-<!-- Colors matched to profile: dark charcoal bg, gold lion, cyan accent -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0d00,70:2a1500,100:0d0d0d&height=220&section=header&text=Hi%20there%2C%20I'm%20Akshit!%20%F0%9F%91%8B&fontSize=48&fontColor=D4971A&fontAlignY=38&desc=Software%20%26%20ML%20Engineer%20in%20the%20Making%20%F0%9F%9A%80&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<!-- ══════════════ HEADER WAVE – no text ══════════════ -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=header" alt="header"/>
 
-<!-- ═══════════════════ ANIMATED GIF INTRO ROW ═══════════════════ -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" align="right"/>
+<!-- Typing SVG -->
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=4500&pause=500&color=58A6FF&center=true&vCenter=true&width=550&lines=Hello!+I'm+Akshit+%F0%9F%91%8B;CS+Student+%7C+ML+Enthusiast;PyTorch+%7C+CUDA+%7C+Linux+Nerd+%E2%9A%A1;while(curious)+%7B+learn()%3B+build()%3B+%7D;%24+sudo+apt+install+skills+%F0%9F%91%BE;Open+Source+%7C+HPC+%7C+Always+Exploring" alt="Typing SVG"/>
+</a>
 
-### 🧑‍💻 &nbsp; Who Am I?
+</div>
 
-🚀 &nbsp; A self-driven **Software &amp; ML Engineer** who loves breaking things to understand them  
-🤖 &nbsp; Diving deep into **Neural Networks**, **CUDA/HPC**, and **Linux internals**  
-🧠 &nbsp; Building with **PyTorch** — from tensors to transformers, one layer at a time  
-🌐 &nbsp; Full-stack curious: **web dev → backend APIs → DevOps automation**  
-🛠️ &nbsp; Believer in learning by shipping — every bug is a lesson in disguise  
-💬 &nbsp; Talk to me about **Python**, **C++**, **Linux**, **ML models**, or just **tech in general**  
-📫 &nbsp; Drop a mail: **vvakshit11318@gmail.com**  
-⚡ &nbsp; Fun fact: My code compiles on the first try… sometimes 🤞
+---
+
+<div align="left">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right"/>
+
+### `> akshit --about`
+
+- 🎓 &nbsp; I'm a student exploring **ML, HPC &amp; Systems**
+- 🧠 &nbsp; Building with **PyTorch** — one layer at a time
+- ⚡ &nbsp; Diving into **CUDA / SYCL** &amp; high-performance computing
+- 🐧 &nbsp; Linux power user — scripting, containers &amp; automation
+- 🤗 &nbsp; Learning to fine-tune **LLMs** with Hugging Face
+- 🌐 &nbsp; Full-stack curious: backend APIs &amp; DevOps
+- 🔭 &nbsp; Every bug is a lesson in disguise
 
 <br clear="both"/>
 
-<!-- ═══════════════════ WAVY DIVIDER ═══════════════════ -->
+</div>
+
+<!-- ══════════════ TERMINAL TYPING ANIMATION ══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=00FF41&background=0D1117FF&center=false&vCenter=false&multiline=true&repeat=false&width=720&height=140&lines=akshit%40github%3A~%24+whoami;++++ML+enthusiast+%7C+Linux+%26+HPC+explorer;akshit%40github%3A~%24+cat+skills.sh;++++CUDA%2FSYCL+%7C+PyTorch+%7C+Docker+%7C+HuggingFace+LLMs;akshit%40github%3A~%24+echo+%22the+best+debugger+is+a+good+night%27s+sleep%22" alt="Terminal animation" width="100%"/>
+
+---
+
+<div align="center">
+
+## ⚙️ &nbsp; Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,bash,ts,js,pytorch&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,react,nodejs,express,html,css,linux&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vim,vscode,jupyter&theme=dark&perline=8"/>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
@@ -29,73 +53,18 @@
 
 <div align="center">
 
-## 🛠️ &nbsp; Tech Stack &amp; Tools
+## 📊 &nbsp; Stats
 
-<!-- ════ LANGUAGES ════ -->
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,bash,php,ts,js&theme=dark&perline=8" />
-
-<br/>
-
-<!-- ════ WEB & BACKEND ════ -->
-**Web &amp; Backend**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,postman&theme=dark&perline=8" />
-
-<br/>
-
-<!-- ════ ML / AI ════ -->
-**Machine Learning &amp; AI**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark&perline=8" />
-
-<br/>
-
-<!-- ════ DEVOPS & SYSTEMS ════ -->
-**DevOps &amp; Systems**
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,githubactions,cmake,vim&theme=dark&perline=8" />
-
-<br/>
-
-<!-- ════ TOOLS & EDITORS ════ -->
-**Tools &amp; Editors**
-
-<img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda,cmake&theme=dark&perline=8" />
-
-<br/>
-
-<!-- ════ AI TOOLS ════ -->
-**AI Coding Tools**
-
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-
-<br/>
-
-<!-- ════ ANIMATED DIVIDER ════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 &nbsp; GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akshit11318&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=D4971A&icon_color=00D4FF&text_color=ffffff&bg_color=0d0d0d" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit11318&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=D4971A&text_color=ffffff&bg_color=0d0d0d" height="180"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Akshit11318&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit11318&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="175"/> -->
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Akshit11318&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=D4971A&ring=00D4FF&currStreakLabel=D4971A&sideLabels=00D4FF&background=0d0d0d" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Akshit11318&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=3fb950&ring=58a6ff&currStreakLabel=3fb950&sideLabels=58a6ff&background=0d1117&stroke=30363d" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- ════ PROFILE SUMMARY CARDS ════ -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshit11318&theme=github_dark" width="100%"/>
 
 <br/>
@@ -106,14 +75,8 @@
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshit11318&theme=github_dark&utcOffset=5.5" height="160"/>
 
-<br/><br/>
-
-<!-- ════ TROPHY ════ -->
-<img src="https://github-profile-trophy.vercel.app/?username=Akshit11318&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&title_color=D4971A" width="100%"/>
-
 <br/>
 
-<!-- ════ ANIMATED DIVIDER ════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
@@ -122,84 +85,53 @@
 
 <div align="center">
 
-## 📈 &nbsp; Contribution Graph
+## 📈 &nbsp; Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshit11318&theme=github-compact&hide_border=true&area=true&custom_title=Akshit%27s%20Contribution%20Graph&radius=8&bg_color=0d0d0d&color=D4971A&line=00D4FF&point=D4971A" width="100%"/>
-
-<br/>
-
-<!-- ════ SNAKE CONTRIBUTION ANIMATION ════ -->
-
-### 🐍 &nbsp; Watch my contributions get eaten!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshit11318/Akshit11318/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshit11318/Akshit11318/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akshit11318/Akshit11318/output/github-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshit11318&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph&radius=8&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff" width="100%"/>
 
 <br/>
 
-<!-- ════ ANIMATED DIVIDER ════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
 ---
 
-## 🌱 &nbsp; What I'm Currently Learning
+## 🔬 &nbsp; Currently Hacking On
 
 | &nbsp; | Topic | Status |
 |--------|-------|--------|
 | 🔥 | Deep Learning with PyTorch | `In Progress` |
-| 🐧 | Advanced Linux &amp; Shell Scripting | `In Progress` |
+| ⚡ | HPC — CUDA / SYCL | `Exploring` |
+| 🐧 | Linux Internals &amp; Shell Scripting | `In Progress` |
 | 📦 | Docker &amp; Container Orchestration | `Learning` |
-| ⚡ | High Performance Computing (HPC / SYCL / CUDA) | `Exploring` |
-| 🤗 | LLM Fine-tuning &amp; Hugging Face Transformers | `Starting` |
+| 🤗 | LLM Fine-tuning &amp; Hugging Face | `Starting` |
 | 📊 | Kaggle Competitions | `Gearing Up` |
 
 ---
 
 <div align="center">
 
-## 😂 &nbsp; Dev Joke of the Day
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark&bgColor=0d0d0d&textColor=D4971A&qColor=00D4FF&aColor=ffffff" alt="Jokes Card"/>
-
-<br/>
-
-<!-- ════ ANIMATED DIVIDER ════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 &nbsp; Connect With Me
+## 🌐 &nbsp; Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-vakati-venkata-4730032a4/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvakshit11318@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshit11318)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/akshit11318)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/Akshit11318)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/Akshit11318)
 
 <br/>
 
-### 👀 &nbsp; Profile Views
-![Visitor Badge](https://komarev.com/ghpvc/?username=Akshit11318&style=for-the-badge&color=D4971A&label=PROFILE+VIEWS)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Akshit11318&style=for-the-badge&color=3fb950&label=VISITORS)
 
 <br/>
 
-### ✨ &nbsp; Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <br/>
 
-<!-- ════ FOOTER WAVE ════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:2a1500,70:1a0d00,100:0d0d0d&height=130&section=footer&animation=fadeIn" width="100%"/>
+<!-- FOOTER WAVE -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer" alt="footer"/>
 
-*"First, solve the problem. Then, write the code."* — John Johnson 💡
+<sub><code>// building at the intersection of code &amp; curiosity �</code></sub>
 
 </div>
