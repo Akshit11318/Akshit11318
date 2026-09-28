@@ -7,10 +7,7 @@ Undergrad building LLM inference, CUDA, and the systems that keep them running.
 A system, in the order it actually runs.
 
 
-|                                 |     |
-| ------------------------------- | --- |
-| ![01 model](./assets/model.svg) |     |
-
+![01 model](./assets/model.svg)
 
 **LLMs and deep learning inference.** PyTorch, from the weights to a running forward pass.
 
