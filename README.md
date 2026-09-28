@@ -14,7 +14,7 @@ A system, in the order it actually runs.
   
 
 
-![Model tools](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn,anaconda&theme=dark&perline=6)
+![Model tools](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn,anaconda&theme=dark&perline=9) ![Hugging Face](./assets/huggingface.svg) ![vLLM](./assets/vllm.svg) ![Jupyter](./assets/jupyter.svg)
 
 ![02 runtime](./assets/runtime.svg)
 
@@ -23,7 +23,7 @@ A system, in the order it actually runs.
   
 
 
-![Runtime tools](https://skillicons.dev/icons?i=c,cpp,cmake&theme=dark&perline=6)
+![Runtime tools](https://skillicons.dev/icons?i=c,cpp,cmake&theme=dark&perline=4) ![CUDA](./assets/cuda.svg)
 
 ![03 service](./assets/service.svg)
 
@@ -32,8 +32,7 @@ A system, in the order it actually runs.
   
 
 
-![Service tools](https://skillicons.dev/icons?i=java,fastapi,nodejs,express,ts,js&theme=dark&perline=6)  
-![Service interfaces and data](https://skillicons.dev/icons?i=react,html,css,postgres,redis&theme=dark&perline=6)
+![Service tools](https://skillicons.dev/icons?i=java,fastapi,nodejs,express,ts,js,react,html,css,postgres,redis&theme=dark&perline=11)
 
 ![04 platform](./assets/platform.svg)
 
@@ -42,8 +41,7 @@ A system, in the order it actually runs.
   
 
 
-![Platform tools](https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,bash&theme=dark&perline=6)  
-![Delivery tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,vim&theme=dark&perline=6)
+![Platform tools](https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,bash,git,github,githubactions,vscode,vim&theme=dark&perline=10)
 
 
 
