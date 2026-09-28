@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1100 268" width="1100" height="268" role="img" aria-label="A forward pass from weights through a kernel, an API, and a cluster">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="100%" stop-color="#05080f"/>
+    </linearGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0 H0 V22" fill="none" stroke="#1f6feb" stroke-opacity="0.16"/>
+    </pattern>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="1.8" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <path id="rail" d="M148,232 H952" fill="none"/>
+  </defs>
+
+  <rect width="1100" height="268" rx="16" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="1" y="1" width="1098" height="266" rx="15" fill="url(#grid)"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="28" y="34" fill="#58A6FF" font-size="13">FORWARD PASS</text>
+    <text x="1048" y="34" text-anchor="end" fill="#3fb950" font-size="12">LIVE</text>
+    <circle cx="996" cy="29" r="3.2" fill="#3fb950" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- model -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect x="24" y="52" width="248" height="150" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <text x="40" y="76" fill="#8b949e" font-size="11">01  MODEL</text>
+    <g transform="translate(148,112)" fill="none" stroke="#1f6feb" stroke-opacity="0.6" stroke-width="1">
+      <path d="M-28,-12 L0,-18"/><path d="M-28,-12 L0,0"/><path d="M-28,-12 L0,18"/>
+      <path d="M-28,12 L0,-18"/><path d="M-28,12 L0,0"/><path d="M-28,12 L0,18"/>
+      <path d="M0,-18 L28,-8"/><path d="M0,-18 L28,8"/>
+      <path d="M0,0 L28,-8"/><path d="M0,0 L28,8"/>
+      <path d="M0,18 L28,-8"/><path d="M0,18 L28,8"/>
+    </g>
+    <g transform="translate(148,112)" fill="#0d1117" stroke-width="1.3">
+      <circle cx="-28" cy="-12" r="4" stroke="#58A6FF"/>
+      <circle cx="-28" cy="12" r="4" stroke="#58A6FF"/>
+      <circle cx="0" cy="-18" r="4" stroke="#79c0ff"/>
+      <circle cx="0" cy="0" r="4" stroke="#79c0ff"/>
+      <circle cx="0" cy="18" r="4" stroke="#79c0ff"/>
+      <circle cx="28" cy="-8" r="4.2" stroke="#3fb950"/>
+      <circle cx="28" cy="8" r="4.2" stroke="#3fb950"/>
+    </g>
+    <text x="148" y="184" text-anchor="middle" fill="#c9d1d9" font-size="12">weights</text>
+    <line x1="148" y1="202" x2="148" y2="232" stroke="#30363d"/>
+  </g>
+
+  <!-- runtime -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect x="292" y="52" width="248" height="150" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <text x="308" y="76" fill="#8b949e" font-size="11">02  RUNTIME</text>
+    <g transform="translate(416,118)" stroke="#30363d" stroke-width="1">
+      <rect x="-46" y="-16" width="16" height="14" rx="2" fill="#3fb950" opacity="0.35">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="-26" y="-16" width="16" height="14" rx="2" fill="#3fb950" opacity="0.55">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0.12s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="-6" y="-16" width="16" height="14" rx="2" fill="#58A6FF" opacity="0.75">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0.24s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="14" y="-16" width="16" height="14" rx="2" fill="#58A6FF" opacity="0.4">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0.36s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="34" y="-16" width="16" height="14" rx="2" fill="#3fb950" opacity="0.3">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0.48s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="-46" y="4" width="16" height="14" rx="2" fill="#58A6FF" opacity="0.45">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0.16s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="-26" y="4" width="16" height="14" rx="2" fill="#3fb950" opacity="0.7">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0.28s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="-6" y="4" width="16" height="14" rx="2" fill="#58A6FF" opacity="0.5">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0.4s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="14" y="4" width="16" height="14" rx="2" fill="#3fb950" opacity="0.35">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0.52s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="34" y="4" width="16" height="14" rx="2" fill="#58A6FF" opacity="0.6">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0.64s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <text x="416" y="184" text-anchor="middle" fill="#c9d1d9" font-size="12">kernel</text>
+    <line x1="416" y1="202" x2="416" y2="232" stroke="#30363d"/>
+  </g>
+
+  <!-- service -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect x="560" y="52" width="248" height="150" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <text x="576" y="76" fill="#8b949e" font-size="11">03  SERVICE</text>
+    <g transform="translate(684,116)">
+      <rect x="-58" y="-16" width="44" height="30" rx="4" fill="#161b22" stroke="#58A6FF" stroke-width="1.3"/>
+      <rect x="14" y="-16" width="44" height="30" rx="4" fill="#161b22" stroke="#3fb950" stroke-width="1.3"/>
+      <text x="-36" y="3" text-anchor="middle" fill="#8b949e" font-size="10">IN</text>
+      <text x="36" y="3" text-anchor="middle" fill="#8b949e" font-size="10">OUT</text>
+      <line x1="-10" y1="-4" x2="10" y2="-4" stroke="#30363d"/>
+      <line x1="-10" y1="6" x2="10" y2="6" stroke="#30363d"/>
+      <circle cy="-4" r="2.6" fill="#58A6FF" filter="url(#glow)">
+        <animate attributeName="cx" values="-10;10;-10" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cy="6" r="2.6" fill="#3fb950" filter="url(#glow)">
+        <animate attributeName="cx" values="10;-10;10" dur="2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <text x="684" y="184" text-anchor="middle" fill="#c9d1d9" font-size="12">api</text>
+    <line x1="684" y1="202" x2="684" y2="232" stroke="#30363d"/>
+  </g>
+
+  <!-- platform -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect x="828" y="52" width="248" height="150" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <text x="844" y="76" fill="#8b949e" font-size="11">04  PLATFORM</text>
+    <g transform="translate(952,116)" stroke-width="1.2">
+      <rect x="-40" y="-22" width="80" height="12" rx="2" fill="#161b22" stroke="#3fb950"/>
+      <rect x="-40" y="-5" width="80" height="12" rx="2" fill="#161b22" stroke="#58A6FF"/>
+      <rect x="-40" y="12" width="80" height="12" rx="2" fill="#161b22" stroke="#58A6FF" stroke-opacity="0.75"/>
+      <circle cx="28" cy="-16" r="2.2" fill="#3fb950" filter="url(#glow)">
+        <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="28" cy="1" r="2.2" fill="#58A6FF">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0.35s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="28" cy="18" r="2.2" fill="#58A6FF">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0.7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <text x="952" y="184" text-anchor="middle" fill="#c9d1d9" font-size="12">cluster</text>
+    <line x1="952" y1="202" x2="952" y2="232" stroke="#30363d"/>
+  </g>
+
+  <line x1="148" y1="232" x2="952" y2="232" stroke="#21262d" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="148" cy="232" r="3.4" fill="#05080f" stroke="#58A6FF" stroke-width="1.4"/>
+  <circle cx="416" cy="232" r="3.4" fill="#05080f" stroke="#58A6FF" stroke-width="1.4"/>
+  <circle cx="684" cy="232" r="3.4" fill="#05080f" stroke="#58A6FF" stroke-width="1.4"/>
+  <circle cx="952" cy="232" r="3.4" fill="#05080f" stroke="#3fb950" stroke-width="1.4"/>
+  <circle r="3.6" fill="#3fb950" filter="url(#glow)">
+    <animateMotion dur="4.4s" repeatCount="indefinite">
+      <mpath xlink:href="#rail"/>
+    </animateMotion>
+  </circle>
+
+  <g fill="none" stroke="#3fb950" stroke-width="1.5" opacity="0.75">
+    <path d="M14,14 H40 M14,14 V40"/>
+    <path d="M1086,14 H1060 M1086,14 V40"/>
+    <path d="M14,254 H40 M14,254 V228"/>
+    <path d="M1086,254 H1060 M1086,254 V228"/>
+  </g>
+</svg>
